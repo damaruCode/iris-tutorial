@@ -22,6 +22,7 @@
           buildInputs = [
             coq
             coqPackages.iris
+            cmake
           ];
         };
       }
